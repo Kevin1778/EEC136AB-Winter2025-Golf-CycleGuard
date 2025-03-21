@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Senior Design" persistent="Senior Design.cywrk" platform="NOT_USED">
+<current_project name=".\TeamGolf-CycleGuard.cydsn\TeamGolf-CycleGuard.cyprj" />
+<wrkspc_folders />
+<files>
+<CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtFileSerialize" version="3" xml_contents_version="1">
+<CyGuid_31768f72-0253-412b-af77-e7dba74d1330 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtItemSerialize" version="2" name="CE220291.pdf" persistent="CE220291.pdf">
+<Hidden v="False" />
+</CyGuid_31768f72-0253-412b-af77-e7dba74d1330>
+<build_action v="OTHER;;;;" />
+<PropertyDeltas />
+</CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b>
+</files>
+<projects>
+<v>.\Blinky.cydsn\Blinky.cyprj</v>
+<v>.\GPS.cydsn\GPS.cyprj</v>
+<v>.\LCD4.cydsn\LCD4.cyprj</v>
+<v>.\PCBproject.cydsn\PCBproject.cyprj</v>
+<v>.\test.cydsn\test.cyprj</v>
+<v>.\printf.cydsn\printf.cyprj</v>
+<v>.\LCDtwo.cydsn\LCDtwo.cyprj</v>
+<v>.\LCDscreen.cydsn\LCDscreen.cyprj</v>
+<v>.\LCD.cydsn\LCD.cyprj</v>
+<v>.\LAB3.cydsn\LAB3.cyprj</v>
+<v>.\CE220291_TCPWM_Square_Wave02.cydsn\CE220291_TCPWM_Square_Wave02.cyprj</v>
+<v>.\CE220692_PSoC6_Frequency_Measurement_TCPWM01.cydsn\CE220692_PSoC6_Frequency_Measurement_TCPWM01.cyprj</v>
+<v>.\LAB2.cydsn\LAB2.cyprj</v>
+<v>.\LAB 4.cydsn\LAB 4.cyprj</v>
+<v>.\Interrupt.cydsn\Interrupt.cyprj</v>
+<v>.\LCD3.cydsn\LCD3.cyprj</v>
+<v>.\TeamGolf-CycleGuard.cydsn\TeamGolf-CycleGuard.cyprj</v>
+</projects>
+<workspace_id v="f741ac3e-343c-4643-9207-97c83111335b" />
+<WriteAppVersionLastSavedWith v="4.4.0.80" />
+<WriteAppMarketingVersionLastSavedWith v="4.4" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>
